@@ -1,0 +1,10 @@
+{
+ "cliente1": {
+  "nome": "Luiz",
+  "sobrenome": "Ot\u00e1vio"
+ },
+ "cliente2": {
+  "nome": "Jo\u00e3o",
+  "sobrenome": "Moreira"
+ }
+}
